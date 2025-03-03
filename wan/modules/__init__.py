@@ -12,5 +12,5 @@ __all__ = [
     'T5Decoder',
     'T5EncoderModel',
     'HuggingfaceTokenizer',
-    'flash_attention',
+    'attention',
 ]
